@@ -11,7 +11,7 @@ A Reporting page that prints out reports in a plain text format based
 		on the data in the database.This reporting tool is a python program using the `psycopg2` module to connect to the database.
 
 
-## Required
+## Requirements
 
 Python
 Vagrant
